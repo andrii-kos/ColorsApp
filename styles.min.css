@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,700);div {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+div h1 {
+    color: #26baee;
+    font-size: 3em;
+  }
+.form-control {
+  height: 30px;
+}
+
+.sample {
+  background-color: #eef2f5;
+  border-radius: 25px;
+}
