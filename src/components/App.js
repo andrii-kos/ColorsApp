@@ -53,7 +53,7 @@ export default class App extends Component {
     const { removeColor, rateColor, addColor } = this
     const { colors } = this.state
     return (
-      <div className="container">
+      <div className="container-fluid">
         <AddColorForm 
           onNewColor={addColor}/>
         <ColorList 
